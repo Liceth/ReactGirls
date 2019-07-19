@@ -25,5 +25,5 @@ Necesitarás tener Node &gt;= 8.10 y npm &gt;= 5.6 instalados en tu máquinaOnce
 echo 'You got to trust me on this, I saved the world'
 ```
 
-[https://www.taniarascia.com/getting-started-with-react/](https://www.taniarascia.com/getting-started-with-react/)
+
 
