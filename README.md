@@ -16,9 +16,9 @@ cd my-app
 npm start
 ```
 
-{% hint style="info" %}
+
 Necesitarás tener Node &gt;= 8.10 y npm &gt;= 5.6 instalados en tu máquinaOnce you're strong enough, save the world:
-{% endhint %}
+
 
 ```
 // Ain't no code for that yet, sorry
