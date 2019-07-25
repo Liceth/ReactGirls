@@ -4,26 +4,22 @@ description: "¡Bienvenidos al React Day! ⚛️  queremos que hoy salgas cono
 
 # React day Workshop
 
-## Crea tu primera aplicación en React 
+## Crea tu primera aplicación en React
 
-Primero vamos a utilizar el comando **Create React App**  que te permitirá configurar tu ambiente de desarrollo de forma que puedas usar las últimas características de JavaScript, brindando una buena experiencia de desarrollo, y optimizando tu aplicación para producción. 
+Primero vamos a utilizar el comando **Create React App** que te permitirá configurar tu ambiente de desarrollo de forma que puedas usar las últimas características de JavaScript, brindando una buena experiencia de desarrollo, y optimizando tu aplicación para producción.
 
 Para crear un proyecto ejecuta:
 
-```
+```text
 npx create-react-app my-app
 cd my-app
 npm start
 ```
 
-
 Necesitarás tener Node &gt;= 8.10 y npm &gt;= 5.6 instalados en tu máquinaOnce you're strong enough, save the world:
 
-
-```
+```text
 // Ain't no code for that yet, sorry
 echo 'You got to trust me on this, I saved the world'
 ```
-
-
 
