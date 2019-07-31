@@ -76,9 +76,17 @@ Aquí podemos ver como debería quedar nuestro`index.html`
 
 Ahora si vemos abrimos nuestro archivo `index.html`en nuestro navegador, veremos que el elemento `h1` tag que creamos sera visualizado en el DOM.
 
-![](../.gitbook/assets/helloreact.PNG)
+![](.gitbook/assets/helloreact%20%281%29.PNG)
 
 Genial!!! ahora que haz creado esta vista, te puedes dar cuenta que React no esta loco para empezar. Es solo una librería de JavaScript en donde podemos cargar dentro de nuestro HTML.
 
 Logramos este tipo de uso de React con el documento de HTML pero recuerda que era solo con el propósito de conocer esta forma, pero de ahora en adelante solo usaremos otro método para crear nuestra aplicación en React: **Create React App metodo**
+
+Ahora si tratamos de abrir nuestro archivo `index.html`en nuestro navegador, veremos el elemento tag `h1` que creamos, visualizado en el DOM.
+
+![](.gitbook/assets/helloreact.PNG)
+
+Estupendo !! Ahora que haz logrado esto, tu puedes ver que React no es tan loco como parece. Solo es un framework de JavaScript donde podemos cargar dentro de nuestro HTML.
+
+Logramos esta parte para demostraste el ejemplo pero aquí solo usaremos otro metodo: Create React App.
 

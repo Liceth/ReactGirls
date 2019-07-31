@@ -9,7 +9,8 @@
 * [Virtual DOM](virtual-dom.md)
 * [Ecosistema de React](ecosistema-de-react.md)
 * [CSS](css.md)
-* [Instalación & Configuración](tutorial/README.md)
-  * [Siguiendo nuestra configuración](tutorial/siguiendo-nuestra-configuracion.md)
+* [Instalación & Configuración](tutorial.md)
 * [Create React App](create-react-app.md)
+* [Siguiendo nuestra configuración](siguiendo-nuestra-configuracion.md)
+* [Create React App](create-react-app-1.md)
 
