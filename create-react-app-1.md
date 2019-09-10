@@ -21,3 +21,7 @@ npm start
 
 Luego de correr este comando, una nueva ventana aparecerá en `localhost:3000`  con tu nueva aplicación de React.
 
+![](.gitbook/assets/welcome-react.png)
+
+Si miramos la estructura del proyecto, podremos observar que existe varias carpetas generadas en nuestra aplicación como `/public` y `/src` acompañadas con las carpetas `node_modules`,  `.gitignore`,   el `README.md` y el  `/package.json`
+

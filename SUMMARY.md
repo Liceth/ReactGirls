@@ -2,7 +2,7 @@
 
 * [React day Workshop](README.md)
 * [Visión General](vision-general.md)
-* [Componentes y jerarquia](componentes-y-jerarquia.md)
+* [Componentes](componentes-y-jerarquia.md)
 * [Stateless vs Stateful](stateless-vs-stateful.md)
 * [Ciclo de Vida de los metodos](ciclo-de-vida-de-los-metodos.md)
 * [Eventos](eventos.md)
@@ -12,4 +12,5 @@
 * [Instalación & Configuración](tutorial.md)
 * [Siguiendo nuestra configuración](siguiendo-nuestra-configuracion.md)
 * [Create React App](create-react-app-1.md)
+* [React DeveloperTools](react-developertools.md)
 

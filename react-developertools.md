@@ -1,4 +1,11 @@
-# CSS
+---
+description: >-
+  There is an extension called React Developer Tools that will make your life
+  much easier when working with React. Download React DevTools for Chrome, or
+  whatever browser you prefer to work on.
+---
+
+# React DeveloperTools
 
 ## Getting Super Powers
 

@@ -16,10 +16,12 @@ cd my-app
 npm start
 ```
 
-Necesitarás tener Node &gt;= 8.10 y npm &gt;= 5.6 instalados en tu máquinaOnce you're strong enough, save the world:
+Necesitarás tener Node &gt;= 8.10 y npm &gt;= 5.6 instalados en tu máquina.
+
+Cuando seas los suficientemente fuerte, salva el mundo:
 
 ```text
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
+// Aun no existe el source code para esto
+echo 'Tienes que confiar en mi, yo salve el mundo!'
 ```
 
