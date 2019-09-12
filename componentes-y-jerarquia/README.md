@@ -45,5 +45,5 @@ export default App
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-Aquí lo que se realizo fue exportar el componente como `App` y cargarlo en el`index.js` No es obligatorio separar los componentes en archivos pero una aplicación comenzara a volverse difícil de manejar si no se hace.
+Aquí lo que se realizo fue exportar el componente como `App` y cargarlo en el`index.js` No es obligatorio separar los componentes en archivos pero la aplicación comenzara a volverse difícil de manejar si no se hace.
 
